@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: coinbase.com
+Token: c5d441c29a9f6d9366086f0fc54f26696983ee50cab2739b102a1f84d962221b
